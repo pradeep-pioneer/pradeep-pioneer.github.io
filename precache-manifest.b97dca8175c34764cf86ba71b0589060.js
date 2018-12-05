@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/static/media/avatar.f849c62d.png"
   },
   {
-    "revision": "410dcdcde64104bf196df29adf1b49e7",
+    "revision": "2a16ace5d6c29000452b8a7d754b8140",
     "url": "/index.html"
   }
 ];
